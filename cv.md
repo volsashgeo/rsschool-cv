@@ -1,27 +1,28 @@
 # Aleksandr Volkov
-## Junior Frontend Developer
+## Junior Frontend Developer  
 ___
 ### Contact information:
 
 Phone: +7 926 560 06 70  
 E-mail: volsash@mail.ru  
 Telegram: @volsashgeo  
-Discord: volsashgeo
-___ 
-About Myself:
-
-For a long time I worked in the field of geodesy, then I decided to change my occupation to frontend development. My goals are to acquire and to consolidate new knowledge.
-I am purposeful and methodical in achieving my goals and confident in success.
+Discord: volsashgeo  
 ___
 
-Skills and Proficiency:
+### About Myself:
+
+For a long time I worked in the field of geodesy, then I decided to change my occupation to frontend development. My goals are to acquire and to consolidate new knowledge.
+I am purposeful and methodical in achieving my goals and confident in success.  
+___
+
+### Skills and Proficiency:
 
 HTML5, CSS3,
 JavaScript Basics,
 Git, GitHub,
 VS Code
 ___
-Code example:
+### Code example:
 
 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.  
 Examples input/output:  
@@ -56,19 +57,19 @@ XO("zzoo") => false
         }else {
             return false
         }
-    }
+    }  
 ___
-Education:  
+### Education:  
 Moscow State University of Geodesy and Cartography  
-Geodetic faculty
+Geodetic faculty  
 ___
 
-Courses:  
+### Courses:  
 Frontend development from "Professional" center () 
 JavaScript Manual on learn.javascript.ru (in progress),  
-RS Schools Course «JavaScript/Frontend. Stage 1» (in progress)
+RS Schools Course «JavaScript/Frontend. Stage 1» (in progress)  
 ___
-Languages:  
+### Languages:  
 English - Intermediate/Upper-intermediate,  
 Russian - Native
 
