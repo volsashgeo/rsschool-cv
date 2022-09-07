@@ -6,21 +6,24 @@ Phone: +7 926 560 06 70
 E-mail: volsash@mail.ru  
 Telegram: @volsashgeo  
 Discord: volsashgeo  
-***
+
+________________________________________________________________________________
 
 ### About Myself:
 
 For a long time I worked in the field of geodesy, then I decided to change my occupation to frontend development. My goals are to acquire and to consolidate new knowledge.
 I am purposeful and methodical in achieving my goals and confident in success.  
-***
+________________________________________________________________________________
+
 
 ### Skills and Proficiency:
 
 HTML5, CSS3,
 JavaScript Basics,
 Git, GitHub,
-VS Code
-***
+VS Code  
+________________________________________________________________________________
+
 ### Code example:
 
 Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.  
@@ -57,20 +60,25 @@ XO("zzoo") => false
             return false
         }
     }  
-***
+________________________________________________________________________________
+
 ### Education:  
 Moscow State University of Geodesy and Cartography  
 Geodetic faculty  
-***
+________________________________________________________________________________
+
 
 ### Courses:  
 Frontend development from "Professional" center () 
 JavaScript Manual on learn.javascript.ru (in progress),  
 RS Schools Course «JavaScript/Frontend. Stage 1» (in progress)  
-***
+________________________________________________________________________________
+
 ### Languages:  
 English - Intermediate/Upper-intermediate,  
-Russian - Native
+Russian - Native  
+________________________________________________________________________________
+
 
 
 
