@@ -13,6 +13,7 @@ ________________________________________________________________________________
 
 For a long time I worked in the field of geodesy, then I decided to change my occupation to frontend development. My goals are to acquire and to consolidate new knowledge.
 I am purposeful and methodical in achieving my goals and confident in success.  
+
 ________________________________________________________________________________
 
 
@@ -22,6 +23,7 @@ HTML5, CSS3,
 JavaScript Basics,
 Git, GitHub,
 VS Code  
+
 ________________________________________________________________________________
 
 ### Code example:
@@ -59,24 +61,28 @@ XO("zzoo") => false
         }else {
             return false
         }
-    }  
+    } 
+
 ________________________________________________________________________________
 
 ### Education:  
 Moscow State University of Geodesy and Cartography  
 Geodetic faculty  
+
 ________________________________________________________________________________
 
 
 ### Courses:  
 Frontend development from "Professional" center () 
 JavaScript Manual on learn.javascript.ru (in progress),  
-RS Schools Course «JavaScript/Frontend. Stage 1» (in progress)  
+RS Schools Course «JavaScript/Frontend. Stage 1» (in progress) 
+
 ________________________________________________________________________________
 
 ### Languages:  
 English - Intermediate/Upper-intermediate,  
 Russian - Native  
+
 ________________________________________________________________________________
 
 
