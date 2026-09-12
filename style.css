@@ -75,11 +75,11 @@ a:hover {
    ========================================================================== */
 
 /* Ограничитель ширины контента */
-.container {
+.wrapper {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 30px;
 }
 
 /* Стили для адаптивных изображений */
@@ -93,10 +93,6 @@ img {
 ul,
 ol {
     list-style: none;
-}
-
-.wrapper {
-    margin: 50px;
 }
 
 .nav {
