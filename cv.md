@@ -1,29 +1,29 @@
 # Aleksandr Volkov
+
 ## Junior Frontend Developer
+
 ### Contact information:
 
-Phone: +7 926 560 06 70
-E-mail: volsash@mail.ru
-Telegram: @volsashgeo
-Discord: volsashgeo
-***
+&nbsp;&nbsp;Phone: +7 926 560 06 70
+&nbsp;&nbsp;E-mail: volsash@mail.ru
+&nbsp;&nbsp;Telegram: @volsashgeo
+&nbsp;&nbsp;Discord: volsashgeo
 
 ### About Myself:
 
-For a long time I worked in the field of geodesy, then I decided to change my occupation to frontend development. My goals are to acquire and to consolidate new knowledge.
+&nbsp;&nbsp;For a long time I worked in the field of geodesy, then I decided to change my occupation to frontend development. My goals are to acquire and to consolidate new knowledge.
 I am purposeful and methodical in achieving my goals and confident in success.
-***
 
 ### Skills and Proficiency:
 
-HTML5, CSS3,
+&nbsp;&nbsp;HTML5, CSS3,
 JavaScript Basics,
 Git, GitHub,
 VS Code
-***
+
 ### Code example:
 
-Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
+&nbsp;&nbsp;Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
 Examples input/output:
 XO("ooxx") => true
 XO("xooxx") => false
@@ -57,20 +57,19 @@ XO("zzoo") => false
             return false
         }
     }
-***
+
 ### Education:
+
 Moscow State University of Geodesy and Cartography
 Geodetic faculty
-***
 
 ### Courses:
-Frontend development from "Professional" center ()
+
+Frontend development from "Professional" center,
 JavaScript Manual on learn.javascript.ru (in progress),
-RS Schools Course «JavaScript/Frontend. Stage 1» (in progress)
-***
+RS Schools Course «JavaScript/Frontend. Stage 1»
+
 ### Languages:
+
 English - Intermediate/Upper-intermediate,
 Russian - Native
-
-
-
